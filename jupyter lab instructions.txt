@@ -1,3 +1,0 @@
-open the soccer analytics folder
-right click and open in terminal
-jupyter-lab
